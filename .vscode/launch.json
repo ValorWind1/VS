@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SerializeArray",
+            "request": "launch",
+            "mainClass": "SerializeArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeserializationArray",
+            "request": "launch",
+            "mainClass": "DeserializationArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SerialDemo",
+            "request": "launch",
+            "mainClass": "SerialDemo"
+        }
+    ]
+}
