@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - reversing_noStringBuilder",
+            "request": "launch",
+            "mainClass": "reversing_noStringBuilder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testVS",
+            "request": "launch",
+            "mainClass": "testVS"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringBuilder_Scanner",
             "request": "launch",
             "mainClass": "StringBuilder_Scanner"
