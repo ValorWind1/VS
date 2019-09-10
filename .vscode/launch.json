@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringBuilder_Scanner",
+            "request": "launch",
+            "mainClass": "StringBuilder_Scanner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BackwardsString",
+            "request": "launch",
+            "mainClass": "BackwardsString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fizzbuzz",
+            "request": "launch",
+            "mainClass": "fizzbuzz"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - q1",
             "request": "launch",
             "mainClass": "q1"
